@@ -1,0 +1,167 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="60zx-sB342bqEOaIHIVE">
+    <mxGraphModel dx="1035" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Dv80UOPgcCg9nW7HVhS--1" target="Dv80UOPgcCg9nW7HVhS--2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="240" />
+              <mxPoint x="435" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="387" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Dv80UOPgcCg9nW7HVhS--2" target="Dv80UOPgcCg9nW7HVhS--23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--2" value="Membuka Website Pembayaran Barang" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="385" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dv80UOPgcCg9nW7HVhS--5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dv80UOPgcCg9nW7HVhS--5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--5" value="Member" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="385" y="496" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--8" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--9" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Dv80UOPgcCg9nW7HVhS--12" target="Dv80UOPgcCg9nW7HVhS--15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Dv80UOPgcCg9nW7HVhS--12" target="Dv80UOPgcCg9nW7HVhS--16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--12" value="Bukan Member&lt;div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="150" y="640" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dv80UOPgcCg9nW7HVhS--13" target="Dv80UOPgcCg9nW7HVhS--17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Dv80UOPgcCg9nW7HVhS--13" target="Dv80UOPgcCg9nW7HVhS--18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--13" value="Member&lt;div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="630" y="640" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.418;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="821.06" as="sourcePoint" />
+            <mxPoint x="414.34000000000003" y="964" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--15" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pembelian lebih atau sama dengan&amp;nbsp;&lt;/div&gt;&lt;div&gt;500.000 akan mendapatkan&lt;/div&gt;&lt;/div&gt;Diskon 10%&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="250" y="760" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--16" value="&lt;div&gt;&lt;div&gt;Pembelian Dibawah&lt;/div&gt;&lt;div&gt;500.000&lt;/div&gt;&lt;/div&gt;tidak diberi Diskon&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="50" y="760" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.536;entryY=0.023;entryDx=0;entryDy=0;exitX=0.017;exitY=0.636;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="Dv80UOPgcCg9nW7HVhS--17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="792.54" as="sourcePoint" />
+            <mxPoint x="446.68000000000006" y="963.998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="472" y="820" />
+              <mxPoint x="447" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--17" value="Diskon 20% untuk&lt;div&gt;Member yang total pembeliannya diatas atau sama dengan&lt;/div&gt;&lt;div&gt;500.000&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="470" y="760" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.772;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="Cr5ktjy7PEMYLMwE5N1J-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="860" as="sourcePoint" />
+            <mxPoint x="480" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="920" />
+              <mxPoint x="480" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--18" value="Diskon 15% untuk&amp;nbsp;&lt;div&gt;Member&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;yang total pembeliannya diatas atau sama dengan&lt;/span&gt;&lt;/div&gt;&lt;div&gt;300.000&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="620" y="760" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--19" value="Diskon 10% untuk&lt;div&gt;Member untuk&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;yang total pembelian dibawah 300.000&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="770" y="760" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="1060" />
+              <mxPoint x="435" y="1060" />
+            </Array>
+            <mxPoint x="435" y="1070" as="sourcePoint" />
+            <mxPoint x="435" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--23" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Input Form Total&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Pembelian&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="365" y="400" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Dv80UOPgcCg9nW7HVhS--23" target="Dv80UOPgcCg9nW7HVhS--5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.609;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Dv80UOPgcCg9nW7HVhS--13" target="Dv80UOPgcCg9nW7HVhS--19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dv80UOPgcCg9nW7HVhS--19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="990" />
+            </Array>
+            <mxPoint x="509.33636363636356" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dv80UOPgcCg9nW7HVhS--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.396;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Dv80UOPgcCg9nW7HVhS--16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="990" />
+            </Array>
+            <mxPoint x="90.01" y="890" as="sourcePoint" />
+            <mxPoint x="380.0009090909091" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cr5ktjy7PEMYLMwE5N1J-3" value="Hitung Total setelah diskon" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="964" width="130" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr5ktjy7PEMYLMwE5N1J-10" value="Tampilkan Hasil&amp;nbsp;&lt;div&gt;Status member,&lt;/div&gt;&lt;div&gt;Total Pembelian,&lt;/div&gt;&lt;div&gt;Diskon dan&lt;/div&gt;&lt;div&gt;Total setelah&amp;nbsp;&lt;/div&gt;&lt;div&gt;diskon&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1120" width="166" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr5ktjy7PEMYLMwE5N1J-11" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="379" y="1270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cr5ktjy7PEMYLMwE5N1J-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cr5ktjy7PEMYLMwE5N1J-10" target="Cr5ktjy7PEMYLMwE5N1J-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="1270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
